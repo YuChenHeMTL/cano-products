@@ -63,7 +63,6 @@ function App() {
   }
 
   function sortDataByProperty(property) {
-    console.log(property, sortType)
     if (property === sortType) {
       setSortDirection(sortDirection === 'asc' ? 'desc' : 'asc');
     } else {
