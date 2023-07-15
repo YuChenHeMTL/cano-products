@@ -4,10 +4,7 @@ This is a demo project for Cano Products App. It displays all available Cano pro
 
 
 ## Demo
-
-<video controls>
-  <source src="./demo_video.mp4" type="video/mp4">
-</video>
+![demo video](./demo.gif)
 
 ## Getting Started
 
