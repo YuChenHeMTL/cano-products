@@ -14,7 +14,7 @@ npm install
 npm start
 ```
 
-to start a local instance of the web app.
+to start a local instance of the web app. You can also visit the website [here]()
 
 ## Features
 
