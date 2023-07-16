@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b41f7fb.css",
-    "main.js": "/static/js/main.d31c0359.js",
-    "static/js/787.d3d14554.chunk.js": "/static/js/787.d3d14554.chunk.js",
-    "static/media/cano_uno.png": "/static/media/cano_uno.e7bf108ab709a266e50a.png",
-    "static/media/cano_solo.png": "/static/media/cano_solo.0e5d7884d091cbeb6c34.png",
-    "static/media/cano_trio.png": "/static/media/cano_trio.0fef220462c9b6287091.png",
-    "static/media/cano_cup.png": "/static/media/cano_cup.839e525b88f7bc71de35.png",
-    "static/media/cano_duo.png": "/static/media/cano_duo.7fe5639a1a1c0a807aa0.png",
-    "static/media/cano_logo.png": "/static/media/cano_logo.95d53c617a0f6f24e222.png",
-    "index.html": "/index.html",
-    "main.3b41f7fb.css.map": "/static/css/main.3b41f7fb.css.map",
-    "main.d31c0359.js.map": "/static/js/main.d31c0359.js.map",
-    "787.d3d14554.chunk.js.map": "/static/js/787.d3d14554.chunk.js.map"
+    "main.css": "/cano-products/static/css/main.3b41f7fb.css",
+    "main.js": "/cano-products/static/js/main.ba5e2d74.js",
+    "static/js/787.d3d14554.chunk.js": "/cano-products/static/js/787.d3d14554.chunk.js",
+    "static/media/cano_uno.png": "/cano-products/static/media/cano_uno.e7bf108ab709a266e50a.png",
+    "static/media/cano_solo.png": "/cano-products/static/media/cano_solo.0e5d7884d091cbeb6c34.png",
+    "static/media/cano_trio.png": "/cano-products/static/media/cano_trio.0fef220462c9b6287091.png",
+    "static/media/cano_cup.png": "/cano-products/static/media/cano_cup.839e525b88f7bc71de35.png",
+    "static/media/cano_duo.png": "/cano-products/static/media/cano_duo.7fe5639a1a1c0a807aa0.png",
+    "static/media/cano_logo.png": "/cano-products/static/media/cano_logo.95d53c617a0f6f24e222.png",
+    "index.html": "/cano-products/index.html",
+    "main.3b41f7fb.css.map": "/cano-products/static/css/main.3b41f7fb.css.map",
+    "main.ba5e2d74.js.map": "/cano-products/static/js/main.ba5e2d74.js.map",
+    "787.d3d14554.chunk.js.map": "/cano-products/static/js/787.d3d14554.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b41f7fb.css",
-    "static/js/main.d31c0359.js"
+    "static/js/main.ba5e2d74.js"
   ]
 }
