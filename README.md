@@ -2,6 +2,7 @@
 
 This is a demo project for Cano Products App. It displays all available Cano products, and allows you to see the product details, environment impact and the price of each one.
 
+Website: https://yuchenhemtl.github.io/cano-products
 
 ## Demo
 ![demo video](./demo.gif)
@@ -14,7 +15,7 @@ npm install
 npm start
 ```
 
-to start a local instance of the web app.
+to start a local instance of the web app. You can also check out the website [here](https://yuchenhemtl.github.io/cano-products/).
 
 ## Features
 
